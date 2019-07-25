@@ -17,7 +17,13 @@ def img_to_array(array):
 
 def open_image(relative_path):
     print("Opening Image: {}".format(relative_path))
-    f = Image.open(relative_path)
+    try:
+        f = Image.open(relative_path)
+    except Exception as error:
+        print(error)
+        exit(1)
+    
+
     print("Image Opened successfully.\n")
     return f
 
