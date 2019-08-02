@@ -3,7 +3,7 @@
 # O que fazer:
 
 - [x] Conversão RGB-YIQ-RGB
-- [ ] Exibição de bandas individuais (R, G e B) como imagens monocromáticas ou coloridas (em tons de R, G ou B, respectivamente)
+- [x] Exibição de bandas individuais (R, G e B) como imagens monocromáticas ou coloridas (em tons de R, G ou B, respectivamente)
 - [ ] Negativo
 - [ ] Controle de brilho multiplicativo (s = r.c, c real não negativo)
 - [ ] Convolução m x n com máscara especificada pelo usuário em arquivo texto. Testar com filtros Média e Sobel.
