@@ -2,7 +2,7 @@
 
 # O que fazer:
 
-- [ ] Conversão RGB-YIQ-RGB
+- [x] Conversão RGB-YIQ-RGB
 - [ ] Exibição de bandas individuais (R, G e B) como imagens monocromáticas ou coloridas (em tons de R, G ou B, respectivamente)
 - [ ] Negativo
 - [ ] Controle de brilho multiplicativo (s = r.c, c real não negativo)
